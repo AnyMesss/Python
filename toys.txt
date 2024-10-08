@@ -1,0 +1,1 @@
+{"name": "Toy Robot", "color": "blue", "buttons": 3, "is_battery_operated": true}
